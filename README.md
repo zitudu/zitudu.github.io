@@ -1,2 +1,2 @@
-# Zitubu's blog
-<https://zitubu.github.io>
+# Zitudu's blog
+<https://zitudu.github.io>
